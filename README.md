@@ -17,7 +17,7 @@ This script automates searches on Bing using Selenium WebDriver and Python. It r
 
 2. Download your Browser's WebDriver and place it in your project directory.
 
-3. Make sure to change the address variable in the code to the address of your WebDriver's path.
+3. In the Python code, make sure to update the `address` variable with the correct path to your WebDriver.
 
 4. Run the script:
     ```bash
