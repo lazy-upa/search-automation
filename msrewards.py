@@ -41,7 +41,7 @@ search_queries = [
 temp = search_queries.copy()
 
 #Paste your browser's WebDriver's address right here
-address = r"C:\Users\Legion\Desktop\numpy\msedgedriver.exe"
+address = r"Paste the path to WebDriver"
 
 #Sets up the browser
 service = Service(address)
