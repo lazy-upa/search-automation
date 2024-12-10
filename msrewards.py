@@ -64,7 +64,6 @@ for i in range(30):
     temp.remove(search)
 
     print(f"Search {i + 1}: {search}")
-    print("Page Title:", browser.title)
 
 #Resets the list again for another day
 temp = search_queries.copy()
