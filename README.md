@@ -4,9 +4,8 @@ This script automates searches on Bing using Selenium WebDriver and Python. It r
 
 ## Requirements
 
-- Python 3.x
 - Selenium
-- WebDriver for the browser your'e using
+- WebDriver for the browser you're using
 
 ## How to Use
 
